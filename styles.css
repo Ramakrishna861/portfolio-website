@@ -1,0 +1,19 @@
+  @import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+            body{
+            background-color:#e6e6fa;
+            }
+            h1{
+                font-size: 40px;
+                font-family:"Odibee Sans";
+                color:#f255;
+            }
+            h2{
+                font-size:50px;
+                font-family: 'Akronim';
+                color:rgb(0,0,255);
+            }
+            .lq{
+                font-size:30px;
+                font-weight:900;
+            }
