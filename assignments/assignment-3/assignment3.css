@@ -1,0 +1,26 @@
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+body{
+    font-family: sans-serif;
+}
+.x{
+    width:25.3%;
+    display:inline-block;
+    background-color:white;
+    border-radius:10%;
+    padding-left:3%;
+    padding-right:3%;
+}
+.y{
+    margin-right:3%;
+}
+
+h2{
+    margin-top:-7%;
+    margin-bottom:15%;
+    color:grey;
+}
+h1{
+    color:skyblue;
+}
+
