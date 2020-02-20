@@ -1,0 +1,16 @@
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+body{
+    font-family: sans-serif;
+}
+img{
+    height:50px;
+    width:50px;
+    vertical-align: middle;
+    margin-right: 35px;
+    margin-bottom: 10px;
+    padding-left:30px;
+}
+div{
+    margin-bottom: 20px;
+}
