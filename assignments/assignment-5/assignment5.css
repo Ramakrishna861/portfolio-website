@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+body{
+    font-family:sans-serif;
+    background-color:#f2f0e0;
+}
+.details{
+    font-weight: bold;
+    font-size: 12px;
+}
+.follow{
+    color:blue;
+    font-size: 18px;
+    font-weight:bold;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+img{
+    height: 10%;
+    width: 10%;
+}
+div{
+    margin-bottom: 20px;
+}
+.mrg{
+    margin-left: 11%;
+}
