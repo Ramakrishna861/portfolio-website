@@ -1,0 +1,15 @@
+.ofig{
+    height:350px;
+    width:527px;
+    background-image:url(assets/rabbit.jpeg);
+    background-size:cover;
+    padding:40px;
+   
+}
+.border{
+    border:20px solid orange;
+    height:250px;
+    width:250px;
+    margin-left:140px;
+    margin-top:20px;
+}
