@@ -1,0 +1,14 @@
+.web{
+     background-color:lightgrey;
+     border-radius:10px;
+     font-size:40px;
+     text-align:center;
+}
+.visit{
+     border:1px solid blue;
+     background-color:blue;
+     color:white;
+     font-size:13px;
+     padding:5px;
+     border-radius:5px;
+}
