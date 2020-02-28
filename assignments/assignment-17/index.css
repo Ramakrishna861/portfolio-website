@@ -1,0 +1,36 @@
+.smh1{
+    font-size:32px;
+    text-align: center;
+}
+.mdh1{
+    font-size:36px;
+    text-align: center;
+}
+.lgh1{
+    font-size:40px;
+    text-align: center;
+}
+.smh2{
+    font-size:24px;
+}
+.mdh2{
+    font-size:28px;
+}
+.lgh2{
+    font-size:32px;
+}
+.smp{
+    font-size:14px;
+    color:black;
+}
+.mdp{
+    font-size:16px;
+    color:gray;
+}
+.lgp{
+    font-size:18px;
+    color:blue;
+}
+.space{
+    margin-top:15px;
+}
