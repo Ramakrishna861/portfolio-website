@@ -1,0 +1,77 @@
+.container{
+    border:.1px solid white;
+    background-color:white;
+    height:400px;
+    width:600px;
+    margin-top:30px;
+}
+
+.black{
+    height:400px;
+    width:600px;
+    border:.5px solid #f0f5f5;
+    background-color:black;
+    border-radius:20px;
+}
+.bg1{
+    height:100%;
+    width:100%;
+    border-radius:20px;
+    background-image: url(assets/background-image.jpeg);
+}
+.bg2{
+    opacity:0.8;
+    border-radius:20px;
+    height:118%;
+    width:125%;
+    margin-left:-30px;
+    margin-top:-30px;
+    background-image: linear-gradient(135deg, #72edf2 10%, #5151ef 100%);
+}
+.color{
+    color:white;
+}
+.types{
+    list-style-type:none;
+    font-weight:bold;
+    text-align:left;
+    font-size:15px;
+}
+.status{
+    list-style-type:none;
+    font-weight:400;  
+    text-align:right;
+    font-size:15px;
+}
+.whtspace{
+    margin-top: 5px;
+}
+.weather1{
+    text-align:center;
+    border:1px solid white;
+    padding:10px;
+    padding-top:-10px;
+    border-radius:10px;
+    background-color:white;
+}
+.weather2{
+    text-align:center;
+    border:1px solid black;
+    padding:10px;
+    border-radius:10px;
+    color:white;
+}
+.bottom{
+    color:white;
+    font-weight:bold;
+    font-size:14px;
+    padding:5px;
+    text-align:center;
+    border:1px solid black;
+    border-radius:20px;
+    background-image: linear-gradient(135deg, #72edf2 10%, #5151ef 100%);
+}
+.space{
+    margin-top:40px;
+    
+}
