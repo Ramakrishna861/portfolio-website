@@ -10,17 +10,18 @@ p{
     margin-top:-18px;
 }
 .big-box{
-    
+    height:95%;
+    width:100%;
     border:1px solid lightgray;
     background-color:white;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .spaces{
-    margin-top:40px;
+    margin-top:20px;
 }
 .box{
     height:85%;
-    width:95%;
+    width:100%;
     border:1px solid lightgray;
     background-color:white;
     padding:10px;
