@@ -13,6 +13,10 @@
     background-color:black;
     border-radius:20px;
 }
+.adjust-image{
+    padding:30px;
+    color:white;
+}
 .bg1{
     height:100%;
     width:100%;
@@ -27,6 +31,11 @@
     margin-left:-30px;
     margin-top:-30px;
     background-image: linear-gradient(135deg, #72edf2 10%, #5151ef 100%);
+}
+.leftside-degree{
+     font-size:50px;
+     font-weight:700;
+     margin-top:-20px;
 }
 .color{
     color:white;
@@ -43,23 +52,25 @@
     text-align:right;
     font-size:15px;
 }
-.whtspace{
+.wheather-space{
     margin-top: 5px;
 }
-.weather1{
+.current-weather{
     text-align:center;
     border:1px solid white;
     padding:10px;
-    padding-top:-10px;
     border-radius:10px;
     background-color:white;
 }
-.weather2{
+.weather{
     text-align:center;
     border:1px solid black;
     padding:10px;
     border-radius:10px;
     color:white;
+}
+.degrees{
+    font-weight:bold;
 }
 .bottom{
     color:white;

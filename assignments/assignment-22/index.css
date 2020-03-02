@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+}
+p{
+    font-size: 14px;
+    line-height:18px;
+    padding:10px;
+}
+.para-space{
+    margin-top:-18px;
+}
+.big-box{
+    height:90%;
+    width:95%;
+    border:1px solid lightgray;
+    background-color:white;
+    margin-top: 40px;
+}
+.spaces{
+    margin-top:40px;
+}
+.box{
+    height:85%;
+    width:95%;
+    border:1px solid lightgray;
+    background-color:white;
+    padding:10px;
+}
