@@ -21,7 +21,7 @@ p{
 }
 .get-mail{
     text-align:right;
-    margin-top:-30px;
+    margin-top:-20px;
 }
 .mobile-mail{
     padding:20px;
@@ -52,7 +52,6 @@ p{
 .updown-space{
     padding:30px;
     padding-top:80px;
-    padding-bottom:80px;
 }
 .adjust-avoid{
     padding:30px;
@@ -63,7 +62,7 @@ p{
 .privacy{
     font-size:13px;
     display:inline;
-    margin-right:15px;
+    margin-right:18px;
 }
 .footer{
     background-color:#f0f5f5;
@@ -72,4 +71,7 @@ p{
 }
 .left{
     text-align:left;
+}
+.down{
+    padding-bottom:80px;
 }
