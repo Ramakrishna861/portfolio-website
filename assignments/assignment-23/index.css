@@ -1,0 +1,75 @@
+.center{
+    text-align:center;
+}
+.space-sign{
+    margin-bottom:-10px
+}
+.exp-gmail{
+     padding-top:40px;
+     padding-bottom:40px;
+}
+.get-more{
+     text-align:center;
+     background-color:#f0f5f5;
+     padding:30px;
+}
+.heading-space{
+    margin-bottom: 20px;
+}
+p{
+    font-size:13px;
+}
+.get-mail{
+    text-align:right;
+    margin-top:-30px;
+}
+.mobile-mail{
+    padding:20px;
+}
+.side-align{
+    margin-left:20px;
+}
+.image{
+    height:100%;
+    width:100%;
+}
+.app-store{
+    height:40px;
+    width:140px;
+    margin-bottom:80px;
+}
+.stay-space{
+    border:1px solid white;
+    background-color:#f0f5f5;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top:50px;
+}
+.stay-space2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.updown-space{
+    padding:30px;
+    padding-top:80px;
+    padding-bottom:80px;
+}
+.adjust-avoid{
+    padding:30px;
+    padding-top:60px;
+    padding-bottom:60px;
+    background-color:#f0f5f5;
+}
+.privacy{
+    font-size:13px;
+    display:inline;
+    margin-right:15px;
+}
+.footer{
+    background-color:#f0f5f5;
+    padding:20px;
+    color:#737373;
+}
+.left{
+    text-align:left;
+}
