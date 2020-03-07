@@ -44,6 +44,9 @@ p{
     width:140px;
     margin-bottom:80px;
 }
+.card{
+    height:100%;
+}
 .stay-space{
     border:1px solid white;
     background-color:#f0f5f5;
