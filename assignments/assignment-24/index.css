@@ -1,29 +1,32 @@
- .content{
+.color-filter{
+    -webkit-filter:invert(100%);
+ }
+.content{
     color:gray;
     font-size:13px;
  }
- .content-left{
+.content-left{
     margin-top:10px;
  }
- .content-right{
+.content-right{
     list-style-type:none;
     margin-top:10px;
  }
- .hr-adjust{
+.hr-adjust{
     display:inline;
     margin-left: 15px;
  }
- .hr-adjust2{
+.hr-adjust2{
     display:inline;
     margin-right: 20px;
     font-size:16px;
  }
- .topic-line{
+.topic-line{
     color:black;
     padding-bottom:5px;
     border-bottom:2px solid dodgerblue;
  }
- .topic-section{
+.topic-section{
     margin-top:6px;
     border:.5px solid lightgray;
     background-color: #f0f5f5;
@@ -31,55 +34,57 @@
     padding-top:40px;
     padding-bottom:40px;
  }
- .para{
+.bg-space{
+    padding-top: 20px;
+ }
+.para{
     color:gray;
     font-size:14px;
     margin-bottom: -3px;
  }
- 
- .img-size{
+.img-size{
     height:70px;
     width:70px;
  }
- .card{
+.card{
     height:100%;
     margin:30px;
  }
- .featured-topics{
+.featured-topics{
     border:1px solid lightgray;
   
     font-weight: bold;
  }
- .featured-star{
+.featured-star{
     height:15px;
     width:15px;
  }
- .featured-img{
+.featured-img{
     height:70px;
     width:70px;
     margin-left:-10px;
  }
- .adj-img{
+.adj-img{
     margin-left:-10px;
  }
- .no-img{
+.no-img{
     height:100%;
     width:100%;
     font-size: 25px;
     background-color:#e6f2ff;
  }
- .img-hash{
+.img-hash{
     padding-left:12px;
     padding-top:15px;
  }
- .loadmore{
+.loadmore{
     border:1px solid lightgray;
     color:dodgerblue;
     font-weight: bold;
     font-size:14px;
     margin-bottom: 30px;
  }
- .pop-topic{
+.pop-topic{
     border:1px solid white;
     background-color: #e6f2ff;
     color:dodgerblue;
