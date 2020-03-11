@@ -1,0 +1,26 @@
+*{
+    font-size:0px;
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+        border:10px solid black;
+        height:200px;
+        width:100%;
+        background-color:blue;
+        display:inline-block;
+    }
+@media (min-width:500px){
+    div{
+        background-color:green;
+        width:50%;
+    }
+}
+@media (min-width:800px){
+    div{
+         width:33.333%;
+        background-color:red;
+        border:10px dashed black;
+    }
+}

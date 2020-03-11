@@ -1,0 +1,27 @@
+body{
+    padding:0px 5px 0px 5px;
+    font-size: 0px;
+}
+@media (max-width:767px){
+    .card{
+        padding:10px;
+        font-size:16px;
+    }
+}
+
+@media (min-width:768px){
+    .card{
+        padding:0px 5px 5px 25px;
+        display:inline-block;
+    }
+    .workforce{
+        width:50%;
+        display:inline-block;
+        font-size: 16px;
+    }
+    .global{
+        width:50%;
+        display:inline-block;
+        font-size: 16px;
+    }
+}
