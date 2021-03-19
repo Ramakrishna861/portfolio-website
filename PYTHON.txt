@@ -1,0 +1,59 @@
+			INSERT RECORDS TO THE DATABASE TABLE USING PYTHON
+			
+
+import mysql.connector
+
+#establish the connection
+conn = mysql.connector.connect(
+   user='root', password='Ekniranjan1@', host='127.0.0.1', database='project')
+
+#Creating a cursor object using the cursor() method
+cursor = conn.cursor()
+
+insert_stmt = (
+   "INSERT INTO orderinfo(orderNumber,productCode,quantityOrdered,priceEach,orderLineNumber)"
+   "VALUES (%s, %s, %s, %s, %s)"
+)
+data = (10208,'S25_2025',50,99,10)
+
+try:
+   cursor.execute(insert_stmt, data)
+  
+   conn.commit()
+
+except:
+   conn.rollback()
+
+print("Data inserted")
+
+conn.close()
+
+
+			RETRIEVE RECORDS FROM THE DATABASE TABLE USING PYTHON
+
+
+import psycopg2
+
+#establishing the connection
+conn = psycopg2.connect(
+   database="project", user='root', password='Ekniranjan1@', host='127.0.0.1', port= '3306'
+)
+
+conn.autocommit = True
+
+cursor = conn.cursor()
+
+#Retrieving data
+cursor.execute('''SELECT * from productinfo''')
+
+result = cursor.fetchone();
+print(result)
+
+result = cursor.fetchall();
+print(result)
+
+conn.commit()
+
+conn.close()
+
+
